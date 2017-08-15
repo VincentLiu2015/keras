@@ -18,7 +18,7 @@ from keras.layers import Conv2D, MaxPooling2D
 import os
 import pickle
 import numpy as np
-
+#batch_size
 batch_size = 32
 num_classes = 10
 epochs = 200
